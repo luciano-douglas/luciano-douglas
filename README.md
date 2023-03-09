@@ -1,6 +1,6 @@
-<h1>Hello, 👋 nice to have you here!</h1>
+<h1 align="center">Hello, 👋 nice to have you here!</h1>
 
-<img src="https://images.unsplash.com/photo-1618530130946-08e764345b83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" width="37%" align="right">
+<img src="https://images.unsplash.com/photo-1618530130946-08e764345b83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" width="47%" align="right">
 
 <h2>ℹ️ About me</h2>
 
